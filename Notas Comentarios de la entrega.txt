@@ -1,0 +1,24 @@
+*******************************
+Admin
+******
+Usuario: 180332403
+
+Clave: JP2016
+
+********************************
+Bodega
+*******
+Usuario: 153204209
+
+Clave: BR2016
+
+********************************
+Para entrega de productos es 
+necesario el registro previo del personal, 
+(tiene que existir el rut en el sistema)
+*******************************
+MISION CUMPLIDA!!!
+
+Atte.
+Davis Sandoval.
+
